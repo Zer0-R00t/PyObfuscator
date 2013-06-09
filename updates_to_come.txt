@@ -1,0 +1,1 @@
+Okay I found a way to encode the source code of a Python script without having to decrypt it after the file has been encoded.Update should added to the GUI in about 1 day or so,stay tuned.
